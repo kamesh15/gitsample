@@ -32,4 +32,14 @@ hi kamesh
 
 hiiiiiii
 
+----------------------------------------------------------------------------------------
+1)Creating branch and switch to created branch
+#git checkout -b <branchname>
+
+2)swtich to branch
+#git chechout <branchname>
+
+-----------------------------------
+Adding the information
+
 
