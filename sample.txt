@@ -1,2 +1,35 @@
 hi mano
 hi kamesh
+
+1) remote->local repo clone
+
+#git clone <url>
+
+2) changes done in local repo,changes transfer to remote repo
+
+--move to stage
+#git add .      or git add <filename>
+
+--commit to local repo
+#git commit -m "message"
+
+--push to remote repo
+#git push origin
+
+-------successfully changes are transformed to remote repo------------
+
+
+
+
+
+3) changes done in remote, transfer to local
+
+-- fetch the changes from the remote repo
+#git fetch origin
+
+-- pull the fetched changes to local repo
+#git pull origin
+
+
+
+
